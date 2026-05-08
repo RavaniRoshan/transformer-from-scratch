@@ -359,4 +359,4 @@ PRs welcome! This is an educational implementation. If you find a bug or have a 
 
 ---
 
-Built with 🧮 NumPy and ❤️ by [Your Name].
+Built with 🧮 NumPy and ❤️ by Roshan.
